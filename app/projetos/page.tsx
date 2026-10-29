@@ -5,7 +5,9 @@ export const metadata: Metadata = { title: "Projetos" };
 const projetos = [
   {
     nome: "FlowEV",
-    descricao: "Descrição em breve.",
+    url: "https://flowev.paulosergio.dev.br",
+    descricao:
+      "Plataforma de gestão de eletropostos via OCPP: monitora carregadores ao vivo, controla recargas à distância, fatura cada sessão e oferece ao motorista um app para achar pontos próximos.",
   },
   {
     nome: "Voltimer",
